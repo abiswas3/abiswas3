@@ -5,3 +5,4 @@ Recently, I've been working closely with [Justin Thaler](https://people.cs.georg
 # Stuff I'm working on
 
 + [x] Benchmarking Montgomerry Multiplication. See [Blog Post](https://randomwalks.xyz/posts/mont_mult/). Links to code in the blog.
++ [ ] Speeding up multi scalar multiplication inside of Arkworks
