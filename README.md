@@ -11,8 +11,4 @@ on [SNARKs](https://www.youtube.com/watch?v=tg6lKPdR_e4), [Jolt](https://github.
 + [x] Benchmarking Montgomerry Multiplication. See [Blog](https://randomwalks.xyz/posts/mont_mult/) [Posts](https://randomwalks.xyz/publish/why-jolt-breaks.html). Links to code in the blog.
 + [ ] Speeding up multi scalar multiplication inside of Ark 5.0 with Improvements from the Zprize [Blog comming soon]()
 
-## Personal Software
 
-+ [ ] Local Search
-+ [ ] Minimal Web Browsers
-+ [ ] Journey of learning Lean.
