@@ -12,3 +12,7 @@ on [SNARKs](https://www.youtube.com/watch?v=tg6lKPdR_e4), [Jolt](https://github.
 + [x] Speeding up multi scalar multiplication inside of Ark 5.0. Update: This involved bringing in the latest ark5.0 changes. The Snarkify code is for single thread optimised and does not work when run in parallel. 
 + [x] Speeding up Polynomial Evaluation [blog](https://randomwalks.xyz/publish/fast_polynomial_evaluation.html)
 
+## Miscellaneous
+
++ [x] A polite scraper for Procycling stats. [VeloBall](https://github.com/abiswas3/VeloBall)
++ [ ] A Velogames analysis tool. [Fantasy Velo]()
