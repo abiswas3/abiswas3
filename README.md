@@ -9,8 +9,9 @@ Recently, I've been working closely with [Justin Thaler](https://people.cs.georg
 on [SNARKs](https://www.youtube.com/watch?v=tg6lKPdR_e4), [Jolt](https://github.com/a16z/jolt) in particular
 
 + [x] Benchmarking Montgomerry Multiplication. See [Blog](https://randomwalks.xyz/posts/mont_mult/) [Posts](https://randomwalks.xyz/publish/why-jolt-breaks.html). Links to code in the blog.
-+ [x] Speeding up multi scalar multiplication inside of Ark 5.0. Update: This involved bringing in the latest ark5.0 changes. The Snarkify code is for single thread optimised and does not work when run in parallel. 
++ [x] Speeding up multi scalar multiplication inside of Ark 5.0. Update: This involved bringing in the latest ark5.0 changes, and parellising small integers. The Snarkify code is for single thread optimised and does not work when run in parallel. On reflection, wI still think there's some optimisations that we can leverage here. 
 + [x] Speeding up Polynomial Evaluation [blog](https://randomwalks.xyz/publish/fast_polynomial_evaluation.html)
++ [ ]Sumcheck optimisations for Shout when $d > 1$ - **In progress**
 
 ## Miscellaneous
 
