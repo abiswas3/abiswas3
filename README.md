@@ -11,11 +11,8 @@ on [SNARKs](https://www.youtube.com/watch?v=tg6lKPdR_e4), [Jolt](https://github.
 + [x] Benchmarking Montgomerry Multiplication. See [Blog](https://randomwalks.xyz/posts/mont_mult/) [Posts](https://randomwalks.xyz/publish/why-jolt-breaks.html). Links to code in the blog.
 + [x] Speeding up multi scalar multiplication inside of Ark 5.0. Update: This involved bringing in the latest ark5.0 changes, and parellising small integers. The Snarkify code is for single thread optimised and does not work when run in parallel. On reflection, wI still think there's some optimisations that we can leverage here. 
 + [x] Speeding up Polynomial Evaluation [blog](https://randomwalks.xyz/publish/fast_polynomial_evaluation.html)
-+ [x] Sumcheck optimisations for Shout when $d > 1$ - [PR]()https://github.com/a16z/jolt/pull/860)
-+ [ ] Optimisations for Small Scalar Multiplications **In progress**
-+ [ ] Multi-scalar Multiplication -- take 2. 
++ [x] Sumcheck optimisations for Shout when $d > 1$ - [PR](https://github.com/a16z/jolt/pull/860)
++ [x] Optimisations for Small Scalar Multiplications [PR](https://github.com/a16z/jolt/pull/969)
++ [ ] Multi-scalar Multiplication -- take 2.
++ [ ] BLS-381 integration
 
-## Miscellaneous
-
-+ [x] A polite scraper for Procycling stats. [VeloBall](https://github.com/abiswas3/VeloBall)
-+ [ ] A Velogames analysis tool. [Fantasy Velo]()
