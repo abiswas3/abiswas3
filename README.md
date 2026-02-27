@@ -13,4 +13,6 @@ on [SNARKs](https://www.youtube.com/watch?v=tg6lKPdR_e4), [Jolt](https://github.
 + [x] Speeding up Polynomial Evaluation [blog](https://randomwalks.xyz/publish/fast_polynomial_evaluation.html)
 + [x] Sumcheck optimisations for Shout when $d > 1$ - [PR](https://github.com/a16z/jolt/pull/860)
 + [x] Optimisations for Small Scalar Multiplications [PR](https://github.com/a16z/jolt/pull/969)
-+ [x] Streaming Jolt - [First Thoughts](https://randomwalks.xyz/posts/outer_spartan.html) [Active PR](https://github.com/a16z/jolt/pull/1114) 
++ [x] Streaming Jolt - [First Thoughts](https://randomwalks.xyz/blog/streaming-sumchecks/) [`PR](https://github.com/a16z/jolt/pull/1114)
++ [x] (Almost) Every sumcheck in Jolt and it's description [Blog](https://randomwalks.xyz/blog/jolt-sumchecks/)
++ [ ] Formally verifying Jolt Bytecode expansion **in progress**
